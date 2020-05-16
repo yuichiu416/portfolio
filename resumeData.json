@@ -1,0 +1,191 @@
+{
+  "main": {
+    "name":"Roger Kiew",
+    "nickName": "Yui",
+    "occupation":"Software Engineer",
+    "description":"Experienced in React, Redux, Javascript, Ruby, Rails, Java, C#, Python and PostgreSQL.",
+    "image":"profilepic.jpg",
+    "bio":"I’m looking for an environment that is fast paced with opportunities to continue learning. Enjoys anime, games, boxing, and baseball.",
+    "contactmessage": "Get In Touch. Contact Yui",
+    "email": "yuichiu416@gmail.com",
+    "phone": "573-818-4106",
+    "address":{
+      "street":"555 Price Ave, Ste 180",
+      "city":"Redwood City",
+      "state":"CA",
+      "zip": "94063"
+    },
+    "website": "https://github.com/yuichiu416",
+    "resumedownload":"https://drive.google.com/open?id=19DG64J6lZ82-Le7tOEEyDLzAGEdOLXBZ",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/roger-kiew-18b751155/",
+        "className":"fab fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/yuichiu416",
+        "className":"fab fa-github"
+      },
+      {
+        "name":"angellist",
+        "url":"https://angel.co/roger-kiew",
+        "className": "fab fa-angellist"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My skills, include but not limited to:",
+    "education":[
+      {
+        "school":"Georgia Institute of Technology",
+        "degree":"Master of Science in Computer Science",
+        "graduated":"Dec 2021(expected)",
+        "description":"Specialization in Computing Systems"
+      },
+      {
+        "school":"Soochow University (Taiwan)",
+        "degree":"BA in Japanese and BBA in Business Administration",
+        "graduated":"Jan 2015",
+        "description":"JLPT N1 Passed in Dec 2010"
+      }
+    ],
+    "work":[
+      {
+        "company":"Indivio",
+        "title":"Software Engineer",
+        "years":"Mar 2020 - current",
+        "description":"Video marketing automation solutions for Facebook ads. On a mission to organize video content around people. Indivio empowers brands and agencies of all sizes to easily create, test, and optimize Facebook ads using video."
+      },
+      {
+        "company":"State of Missouri - Office of Administration",
+        "title":"Software Developer Intern",
+        "years":"Jun 2018 - Aug 2018",
+        "description":"Worked with a team who designed a website for students to search the programs of colleges in Missouri, allowing them to compare the cost, degree level, and transferable credits between institutions."
+      }
+    ],
+    "skills":[
+      {
+        "name": "Ruby",
+        "img": "images/skills/ruby.png"
+      },
+      {
+        "name": "Rails",
+        "img": "images/skills/rails.png"
+      },
+      {
+        "name": "JavaScript",
+        "img": "images/skills/javascript.png"
+      },
+      {
+        "name": "Java",
+        "img": "images/skills/java.png"
+      },
+      {
+        "name": "C#",
+        "img": "images/skills/csharp.png"
+      },
+      {
+        "name": "Python",
+        "img": "images/skills/python.png"
+      },
+      {
+        "name":"CSS",
+        "img": "images/skills/css3.png"
+      },
+      {
+        "name":"HTML5",
+        "img": "images/skills/html5.png"
+      },
+      {
+        "name":"MongoDB",
+        "img": "images/skills/mongodb.png"
+      },
+      {
+        "name": "Express.js",
+        "img": "images/skills/express.png"
+      },
+      {
+        "name": "React",
+        "level": "85%",
+        "img": "images/skills/react.png"
+      },
+      {
+        "name": "Node.js",
+        "img": "images/skills/nodejs.png"
+      },
+      {
+        "name": "Redux",
+        "img": "images/skills/redux.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "img":"images/skills/postgres.png"
+      },
+      {
+        "name": "GraphQL",
+        "img": "images/skills/graphql.png"
+      },
+      {
+        "name": "Apollo",
+        "img": "images/skills/apollo.png"
+      },
+      {
+        "name": "jQuery",
+        "img": "images/skills/jquery.png"
+      },
+      {
+        "name": "Docker.js",
+        "img": "images/skills/docker.png"
+      },
+      {
+        "name": "Git",
+        "img": "images/skills/git.png"
+      },
+      {
+        "name": "AWS",
+        "img": "images/skills/aws.png"
+      }
+]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Plutus",
+        "technology":"MongoDB / Express / React / Node.js / CloudinaryDB / GraphQL / Websocket",
+        "image":"plutus.jpg",
+        "demo":"https://plutus-5566.herokuapp.com/#/",
+        "repo":"https://github.com/yuichiu416/Plutus"
+      },
+      {
+        "title":"Modern",
+        "technology":"MongoDB / Express / React / Node.js / CloudinaryDB / LinkPreview API",
+        "image":"modern.jpg",
+        "demo":"https://github.com/chinweenie/modern",
+        "repo:":"https://github.com/chinweenie/modern"
+      },
+      {
+        "title":"Rock On",
+        "technology":"React / Redux / JavaScript / Rails / IEX API / AJAX",
+        "image":"rock-on.jpg",
+        "demo":"https://rock-on-5566.herokuapp.com/",
+        "repo:":"https://github.com/yuichiu416/Rock_on"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"He is a very reliable teammate. Easy to work with, productive, and knowledgable. Just tell him what you need and he will get them done perfectly.",
+        "user":"Stan Bondarenko",
+        "profileURL": "https://www.linkedin.com/in/stanbondarenko/"
+      },
+      {
+        "text":"Roger is an awesome developer and he got so many useful tutorials/cheetsheets on his GitHub. When we are stuck, talking to him is the way to go.",
+        "user":"Winnie Chin",
+        "profileURL": "https://www.linkedin.com/in/wee-nie-chin-182779120/"
+      }
+    ]
+  }
+}
