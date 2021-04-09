@@ -3,17 +3,17 @@
     "name":"Roger Kiew",
     "nickName": "Yui",
     "occupation":"Software Engineer",
-    "description":"Experienced in React, Redux, Javascript, Ruby, Rails, Java, C#, Python and PostgreSQL.",
+    "description":"Experienced in React, Redux, JavaScript, PHP, Ruby, Rails, Java, C#, Python and PostgreSQL.",
     "image":"profilepic.jpg",
     "bio":"I’m looking for an environment that is fast paced with opportunities to continue learning. Enjoys anime, games, boxing, and baseball.",
     "contactmessage": "Get In Touch. Contact Yui",
     "email": "yuichiu416@gmail.com",
     "phone": "573-818-4106",
     "address":{
-      "street":"555 Price Ave, Ste 180",
-      "city":"Redwood City",
-      "state":"CA",
-      "zip": "94063"
+      "street":"4635 Brandon Woods St",
+      "city":"Columbia",
+      "state":"MO",
+      "zip": "65203"
     },
     "website": "https://github.com/yuichiu416",
     "resumedownload":"https://drive.google.com/open?id=1KDC3mwlPMd7as-V_KdDDEJyT7p-_oNs2",
@@ -41,21 +41,21 @@
       {
         "school":"Georgia Institute of Technology",
         "degree":"Master of Science in Computer Science",
-        "graduated":"Dec 2021(expected)",
+        "graduated":"Aug 2021(expected)",
         "description":"Specialization in Computing Systems"
-      },
-      {
-        "school":"Soochow University (Taiwan)",
-        "degree":"BA in Japanese and BBA in Business Administration",
-        "graduated":"Jan 2015",
-        "description":"JLPT N1 Passed in Dec 2010"
       }
     ],
     "work":[
       {
+        "company":"Socket",
+        "title":"Software Engineer",
+        "years":"Aug - current",
+        "description": "Maintain internal software programs for business needs and polish customer facing websites. Help the team to improve the quality of code."
+      },
+      {
         "company":"Indivio",
         "title":"Software Engineer",
-        "years":"Mar 2020 - current",
+        "years":"Mar 2020 - Jul 2020",
         "description":"Video marketing automation solutions for Facebook ads. On a mission to organize video content around people. Indivio empowers brands and agencies of all sizes to easily create, test, and optimize Facebook ads using video."
       },
       {
@@ -77,6 +77,10 @@
       {
         "name": "JavaScript",
         "img": "images/skills/javascript.png"
+      },
+      {
+        "name": "PHP",
+        "img": "images/skills/php.png"
       },
       {
         "name": "Java",
